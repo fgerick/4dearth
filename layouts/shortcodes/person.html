@@ -1,0 +1,23 @@
+{{/* Shortcode: person (background-image avatar) */}}
+{{ $name := .Get "name" }}
+{{ $aff  := .Get "affiliation" }}
+{{ $img  := .Get "img" }}
+
+{{/* Resolve page resource first; fallback to relURL */}}
+{{ $res := cond (and $img .Page) (.Page.Resources.GetMatch $img) nil }}
+{{ $src := "" }}
+{{ if $res }}
+  {{ $src = $res.RelPermalink }}
+{{ else if $img }}
+  {{ $src = ($img | relURL) }}
+{{ end }}
+
+<div class="people-card">
+  <div class="people-avatar" {{ with $src }}style="background-image:url('{{ . }}');"{{ end }}></div>
+  <div class="people-body">
+    <p class="people-name"><strong>{{ $name }}</strong></p>
+    {{ with $aff }}<div class="people-affiliation">{{ . }}</div>{{ end }}
+    <div class="people-summary">{{ .Inner | markdownify }}</div>
+  </div>
+</div>
+</br>

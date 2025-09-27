@@ -1,0 +1,48 @@
+/* People list layout (works on light/dark; uses fallbacks if theme vars differ) */
+.people-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.people-card { display: grid; grid-template-columns: auto 1fr; gap: 1rem; align-items: start; }
+
+.people-avatar {
+  width: 96px;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex: 0 0 auto;
+}
+
+
+.people-body { min-width: 0; }
+
+.people-name {
+  font-weight: 700;
+  font-size: 1.15rem;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.people-affiliation {
+  margin-top: 0.15rem;
+  font-size: 0.85rem;
+  color: var(--color-text-weak, rgba(0,0,0,0.6)); /* Congo var with fallback */
+}
+
+.people-summary {
+  margin-top: 0.5rem;
+}
+
+/* Slightly larger on wider screens */
+@media (min-width: 768px) {
+  .people-avatar {
+    width: 100px;
+    height: 100px;
+  }
+  .people-name {
+    font-size: 1.2rem;
+  }
+}
