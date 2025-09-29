@@ -1,8 +1,9 @@
-/* People list layout (works on light/dark; uses fallbacks if theme vars differ) */
+	/* People list layout (works on light/dark; uses fallbacks if theme vars differ) */
 .people-list {
   display: grid;
   gap: 1rem;
 }
+
 
 .people-card { display: grid; grid-template-columns: auto 1fr; gap: 1rem; align-items: start; }
 
@@ -10,6 +11,7 @@
   width: 96px;
   aspect-ratio: 1 / 1;
   border-radius: 50%;
+  border: 1.5px solid;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -29,7 +31,7 @@
 .people-affiliation {
   margin-top: 0.15rem;
   font-size: 0.85rem;
-  color: var(--color-text-weak, rgba(0,0,0,0.6)); /* Congo var with fallback */
+  color: var(--color-text-weak); /* Congo var with fallback */
 }
 
 .people-summary {
@@ -46,3 +48,6 @@
     font-size: 1.2rem;
   }
 }
+
+img[alt=institutelogo] { width: 10%; }
+
