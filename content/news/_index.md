@@ -7,4 +7,4 @@ cascade:
   showReadingTime: false
 ---
 
-All the news will be here.
+Latest updates related to the project.
