@@ -109,7 +109,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     affiliation="Institut des Sciences de la Terre, CNRS"
     img="img/people/thumb.png"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I develop and use the [xshells code](https://nschaeff.bitbucket.io/xshells/index.html) to study fluid planetary interiors with magnetic fields.
+In this project, we will study several key aspects of Earth's core flow related to the geomagnetic field using high performance numerical simulations.
+[website](https://nschaeff.bitbucket.io)
 {{< /person >}}
 
 ## Project coordinators
