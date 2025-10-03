@@ -18,9 +18,9 @@ I am a CNRS research director working on the geophysical interpretation of the g
 {{< person
     name="Professor Chris Davies"
     affiliation="University of Leeds"
-    img="img/people/thumb.png"
+    img="img/people/davies.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am a Professor of theoretical geophysics, working on the dynamics and evolution of Earth's core and magnetic field. More information can be found on [my website](https://environment.leeds.ac.uk/see/staff/1225/professor-chris-davies) and our [team website](https://planetarycores.leeds.ac.uk/).
 {{< /person >}}
 
 {{< person
