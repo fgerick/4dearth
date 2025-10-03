@@ -10,9 +10,9 @@ date: 2025-09-26
 {{< person
     name="Dr Julien Aubert"
     affiliation="Institut de Physique du Globe de Paris"
-    img="img/people/thumb.png"
+    img="img/people/aubert.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am a CNRS research director working on the geophysical interpretation of the geomagnetic signal. Within this project, I am the corresponding scientist for partner IPGP. 
 {{< /person >}}
 
 {{< person
@@ -90,9 +90,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< person
     name="Professor Jon Mound"
     affiliation="University of Leeds"
-    img="img/people/thumb.png"
+    img="img/people/mound.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am a Professor of Global Geophysics, who studies the dynamics of the core and coupling between the fluid and solid regions of Earth's deep interior. For the 4D Earth Core+ project I will be involved in work on how we can use observations of the magnetic field to determine core dynamics. More information on my research can be found at https://environment.leeds.ac.uk/see/staff/1436/prof-jon-mound.
 {{< /person >}}
 
 
