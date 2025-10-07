@@ -32,14 +32,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< /person >}}
 
 {{< person
-    name="Professor Alexandre Fournier"
-    affiliation="Institut de Physique du Globe de Paris, Université Paris Cité"
-    img="img/people/thumb.png"
->}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-{{< /person >}}
-
-{{< person
     name="Dr Felix Gerick"
     affiliation="University of Leeds"
     img="img/people/gerick.jpg"
