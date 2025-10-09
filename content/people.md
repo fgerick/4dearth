@@ -42,9 +42,9 @@ I am a postdoctoral fellow, working on hydromagnetic modes propagating in the Ea
 {{< person
     name="Dr Nicolas Gillet"
     affiliation="Institut des Sciences de la Terre, CNRS"
-    img="img/people/thumb.png"
+    img="img/people/gillet.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am CNRS researcher at the ISTerre laboratory in Grenoble, working on the dynamics within Earth's core from the analysis of geomagnetic observations and numerical simulations of the geodynamo. I am PI of the 4D-Earth-Core+ project sponsored by ESA. More details can be found on [my website](https://www.isterre.fr/annuaire/pages-web-du-personnel/nicolas-gillet/).
 {{< /person >}}
 
 {{< person

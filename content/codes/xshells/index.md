@@ -2,7 +2,7 @@
 title: "XSHELLS"
 summary: "A high performance simulation code for rotating incompressible flows and magnetic fields in spherical shells."
 date: 2025-09-29
-draft: false
+draft: true
 ---
 
 ## High-definition turbulent geodynamo
