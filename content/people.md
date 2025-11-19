@@ -58,9 +58,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< person
     name="Dr Clemens Kloss"
     affiliation="Technical University of Denmark"
-    img="img/people/thumb.png"
+    img="img/people/kloss.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am a researcher specializing in geomagnetic field modeling, using magnetic data from low-Earth orbit satellites, such as Swarm. In this project, I will work on geomagnetic datasets and field model products, as well as their related model uncertainty and resolution.
 {{< /person >}}
 
 {{< person
