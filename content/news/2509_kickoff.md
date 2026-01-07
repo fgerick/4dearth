@@ -5,4 +5,4 @@ date: 2025-09-30
 draft: false
 ---
 
-
+The project had its first meeting online and has now officially been started.
