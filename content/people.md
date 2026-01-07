@@ -26,9 +26,9 @@ I am a Professor of theoretical geophysics, working on the dynamics and evolutio
 {{< person
     name="Professor Chris Finlay"
     affiliation="Technical University of Denmark"
-    img="img/people/thumb.png"
+    img="img/people/finlay.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am Professor of Geomagnetism at DTU Space, Technical University of Denmark. I work with geomagnetic observations, from satellites and ground observatories, using these to study the physical properties and dynamics of Earth's surface and deep interior. In 4D-Earth-Core+ I will focus on the observational inputs to the project, especially from ESA's Swarm satellites, leading DTU's efforts to derive improved core field models and associated diagnostics on model uncertainties and resolution.
 {{< /person >}}
 
 {{< person

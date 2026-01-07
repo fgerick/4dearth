@@ -5,10 +5,11 @@ date: 2025-09-29
 ---
 
 ## 2025
+- Finlay, Kloss, & Gillet. Core field changes from eleven years of Swarm satellite observations. _Physics of the Earth and Planetary Interiors_, 368, 107447. [10.1016/j.pepi.2025.107447](https://doi.org/10.1016/j.pepi.2025.107447) {{< openaccess >}}
 - Gerick & Mandea. Surface Core Flow Dynamic Pressure Estimation. _Geophysical Journal International_, 243(1), ggaf321. [10.1093/gji/ggaf321](https://doi.org/10.1093/gji/ggaf321) {{< openaccess >}}
 - Claveau, Gillet, Amblard, & Finlay. Broadband a priori temporal cross-covariances for the geomagnetic inverse problem: application to the satellite era, _Earth, Planets and Space_, 77(1), 126, [10.1186/s40623-025-02248-z](https://doi.org/10.1186/s40623-025-02248-z). {{< openaccess >}}
 - Aubert, Landeau, Fournier, & Gastine. Core-surface kinematic control of polarity reversals in advanced geodynamo simulations, _Physics of the Earth and Planetary Interiors_. 364, 107365, [10.1016/j.pepi.2025.107365](https://doi.org/10.1016/j.pepi.2025.107365) {{< openaccess >}}
-- Rogers, Gillet, Aubert, Personnettaz, & Mandea. Effects of geodynamo priors and geomagnetic data on inverted core surface flows, _Physics of the Earth and Planetary Interiors_, [10.1016/j.pepi.2025.107323](https://doi.org/10.1016/j.pepi.2025.107323) {{< openaccess >}}
+- Rogers, Gillet, Aubert, Personnettaz, & Mandea. Effects of geodynamo priors and geomagnetic data on inverted core surface flows, _Physics of the Earth and Planetary Interiors_, 364, 107323, [10.1016/j.pepi.2025.107323](https://doi.org/10.1016/j.pepi.2025.107323) {{< openaccess >}}
 - Aubert. Rapid geomagnetic variations and stable stratification at the top of Earth’s core, _Physics of the Earth and Planetary Interiors_. 362, 107335, [10.1016/j.pepi.2025.107335](https://doi.org/10.1016/j.pepi.2025.107335) {{< openaccess >}}
 - Gerick. Limace.jl: A Julia package to compute hydromagnetic modes in spherical domains. _Journal of Open Source Software_, 10(110), 7593. [10.21105/joss.07593](https://doi.org/10.21105/joss.07593) {{< openaccess >}}
 
