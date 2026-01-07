@@ -66,9 +66,9 @@ I am a researcher specializing in geomagnetic field modeling, using magnetic dat
 {{< person
     name="Dr Vincent Lesur"
     affiliation="Institut de Physique du Globe de Paris, CNAP"
-    img="img/people/thumb.png"
+    img="img/people/lesur.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am a Physicist in charge of the magnetic observatory service at IPGP and working on geomagnetic field modelling from survey satellite and ground observatory data.
 {{< /person >}}
 
 {{< person
