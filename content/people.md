@@ -28,7 +28,7 @@ I am a Professor of theoretical geophysics, working on the dynamics and evolutio
     affiliation="Technical University of Denmark"
     img="img/people/finlay.jpg"
 >}}
-I am Professor of Geomagnetism at DTU Space, Technical University of Denmark. I work with geomagnetic observations, from satellites and ground observatories, using these to study the physical properties and dynamics of Earth's surface and deep interior. In 4D-Earth-Core+ I will focus on the observational inputs to the project, especially from ESA's Swarm satellites, leading DTU's efforts to derive improved core field models and associated diagnostics on model uncertainties and resolution.
+I am Professor of Geomagnetism at DTU Space, Technical University of Denmark. I work with geomagnetic observations, from satellites and ground observatories, using these to study the physical properties and dynamics of Earth's surface and deep interior. In 4D Earth Core+ I will focus on the observational inputs to the project, especially from ESA's Swarm satellites, leading DTU's efforts to derive improved core field models and associated diagnostics on model uncertainties and resolution.
 {{< /person >}}
 
 {{< person
@@ -36,7 +36,7 @@ I am Professor of Geomagnetism at DTU Space, Technical University of Denmark. I 
     affiliation="University of Leeds"
     img="img/people/gerick.jpg"
 >}}
-I am a postdoctoral fellow, working on hydromagnetic modes propagating in the Earth's liquid core. Within the project I will improve the existing numerical model and use hydromagnetic modes to infer the base-state of a modelled core. I have been involved in the 4D-Earth Swarm consortium since its beginning in 2019 as a collaborator and Co-PI. You can find more information on my work on [my website](https://fgerick.github.io/).
+I am a postdoctoral fellow, working on hydromagnetic modes propagating in the Earth's liquid core. Within the project I will improve the existing numerical model and use hydromagnetic modes to infer the base-state of a modelled core. I have been involved in the 4D Earth consortium since its beginning in 2019 as a collaborator and Co-PI. You can find more information on my work on [my website](https://fgerick.github.io/).
 {{< /person >}}
 
 {{< person
@@ -44,15 +44,15 @@ I am a postdoctoral fellow, working on hydromagnetic modes propagating in the Ea
     affiliation="Institut des Sciences de la Terre, CNRS"
     img="img/people/gillet.jpg"
 >}}
-I am CNRS researcher at the ISTerre laboratory in Grenoble, working on the dynamics within Earth's core from the analysis of geomagnetic observations and numerical simulations of the geodynamo. I am PI of the 4D-Earth-Core+ project sponsored by ESA. More details can be found on [my website](https://www.isterre.fr/annuaire/pages-web-du-personnel/nicolas-gillet/).
+I am CNRS researcher at the ISTerre laboratory in Grenoble, working on the dynamics within Earth's core from the analysis of geomagnetic observations and numerical simulations of the geodynamo. I am PI of the 4D Earth Core+ project sponsored by ESA. More details can be found on [my website](https://www.isterre.fr/annuaire/pages-web-du-personnel/nicolas-gillet/).
 {{< /person >}}
 
 {{< person
     name="Dr Dominique Jault"
     affiliation="Institut des Sciences de la Terre, CNRS"
-    img="img/people/thumb.png"
+    img="img/people/jault.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am a CNRS researcher working on the main magnetic field of the Earth and on the dynamics within its fluid core. In 4D Earth Core+, I will work on the visco-magnetic boundary layer separating the bulk of the core from the core surface where magnetic models are available, on the electrical conductivity of the lowermost mantle and of the relative rotation of the solid inner core with respect to the mantle. Additional information can be found on the website https://www.isterre.fr/annuaire/pages-web-du-personnel/dominique-jault/
 {{< /person >}}
 
 {{< person
