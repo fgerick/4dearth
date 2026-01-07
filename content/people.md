@@ -74,9 +74,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< person
     name="Professor Phil Livermore"
     affiliation="University of Leeds"
-    img="img/people/thumb.png"
+    img="img/people/livermore.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am Professor of Mathematical Geophysics at the University of Leeds, studying the dynamics of Earth’s core though theoretical, numerical and data-driven approaches.
+In 4D Earth core+, I am specifically interested in whether machine learning methods can be used to image core dynamics using satellite observations. More details about my work can be found at [my website](https://environment.leeds.ac.uk/see/staff/1381/professor-phil-livermore).
 {{< /person >}}
 
 {{< person
