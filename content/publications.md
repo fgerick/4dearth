@@ -4,6 +4,9 @@ layout: "simple"
 date: 2025-09-29
 ---
 
+
+# Previous references
+
 ## 2025
 - Gillet, Martinec, Lepage, & Jault. Constraints on the lower mantle electrical conductivity from length-of-day changes. _Journal of Studies of Earth’s Deep Interior_, 1, 4, [10.46298/jsedi.16005](https://doi.org/10.46298/jsedi.16005) {{< openaccess >}}
 - Finlay, Kloss, & Gillet. Core field changes from eleven years of Swarm satellite observations. _Physics of the Earth and Planetary Interiors_, 368, 107447. [10.1016/j.pepi.2025.107447](https://doi.org/10.1016/j.pepi.2025.107447) {{< openaccess >}}

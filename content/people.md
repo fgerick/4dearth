@@ -107,28 +107,3 @@ In this project, we will study several key aspects of Earth's core flow related 
 [website](https://nschaeff.bitbucket.io)
 {{< /person >}}
 
-## Project coordinators
-
-{{< person
-    name="Dr Diego Fernández-Prieto"
-    affiliation="European Space Agency"
-    img="img/people/thumb.png"
->}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-{{< /person >}}
-
-{{< person
-    name="Dr Elisabetta Iorfida"
-    affiliation="European Space Agency"
-    img="img/people/thumb.png"
->}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-{{< /person >}}
-
-{{< person
-    name="Dr Anja Strømme"
-    affiliation="European Space Agency"
-    img="img/people/thumb.png"
->}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-{{< /person >}}
