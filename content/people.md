@@ -92,9 +92,9 @@ I am a Professor of Global Geophysics, who studies the dynamics of the core and 
 {{< person
     name="Professor Nils Olsen"
     affiliation="Technical University of Denmark"
-    img="img/people/thumb.png"
+    img="img/people/olsen.jpg"
 >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+I am Professor of Geophysics at DTU Space, Technical University of Denmark. I work with geomagnetic data from satellites and ground observatories, on electromagnetic induction in Earth's interior, and on the calibration and processing of magnetic satellite data. In 4D-Earth-Core+ I will focus on the calibration of magnetic data from satellites like Swarm, MSS-1, CryoSat-2 and others, and on improving DTU's geomagnetic field models by accounting for ionospheric, magnetospheric, and Earth-induced contributions.
 {{< /person >}}
 
 {{< person
