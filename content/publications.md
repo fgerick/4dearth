@@ -50,4 +50,3 @@ date: 2025-09-29
 - Huder, Gillet, Finlay, Hammer, & Tchoungui. COV-OBS.x2: 180 years of geomagnetic field evolution from ground-based and satellite observations. _Earth, Planets and Space_, 72, 160. [10.1186/s40623-020-01194-2](https://doi.org/10.1186/s40623-020-01194-2) {{< openaccess >}}
 - Finlay, Kloss, Olsen, Hammer, Tøffner-Clausen, Grayver, & Kuvshinov. The CHAOS-7 geomagnetic field model and observed changes in the South Atlantic Anomaly. _Earth, Planets and Space_, 72, 156. [10.1186/s40623-020-01252-9](https://doi.org/10.1186/s40623-020-01252-9) {{< openaccess >}}
   
-
