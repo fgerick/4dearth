@@ -33,7 +33,7 @@ draft: false
 | 12:15 | Kathy Whaler | Fast waves in the core from satellite SV data |
 | 12:35 | 				| Lunch break and [posters](#posters) |
 |		|				|				|
-| 14:00 | Frederik Dahl Madsen | Creating synthetic geomagnetic jerks with core-surface flow acceleration pulses |
+| 14:00 | Frederik Dahl Madsen | Geomagnetic jerks as a result of core-surface flow acceleration: simulations and observations |
 | 14:20 | Yue-Kin Tsang | Transition in the geomagnetic secular variation timescale under the core-mantle boundary |
 | 14:40 | Jinfeng Li | Physics-informed neural networks for geomagnetic data assimilation |
 | 15:00 | Pengshuo Duan | Electrical conductivity at the mantle base inferred by a 6-year length-of-day oscillation |
