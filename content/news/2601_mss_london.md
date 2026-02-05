@@ -12,3 +12,22 @@ draft: false
 | **Venue** | The Royal Astronomical Society, London, as part of their specialist discussion meeting series. |
 | **Meeting website and registration** | https://ras.ac.uk/events-and-meetings/ras-meetings/geomagnetic-exploration-earth-space-using-swarm-and-mss-1 |
 | **Cost** | £15 + ticket issuing fee for in-person ticket or £5 + ticket issuing fee for an online ticket. The event is free for fellows of the RAS. Lunch is not included in the cost |
+
+## Preliminary schedule
+
+| Time | Author          	| Title |
+| ---- | --------------- 	| ----- |
+| 10:30 | Anja Strømme   	| Swarm: current status and the way ahead |
+| 10:50 | Nils Olsen     	| Swarm, MSS, and Friends - Exploring Earth's Magnetic Field from Space |
+| 11:10 | Keke Zhang     	| The Macau Geomagnetic Constellation: An Update |
+| 11:30 | Gauthier Hulot 	| TBC |
+| 11:50 | Hugo Shelley   	| Io-1: Demonstrating Accurate Magnetometry on a CubeSat Platform |
+| 12:10 | Ciaran Beggan 	| TBC |
+| 12:30 | 					| Lunch break |
+|		|				 	| |
+| 13:30 | Anita Aikio		| TBC |
+| 13:50 | Alexander Grayver | Dynamics of the Ionospheric, Magnetospheric, and Induced Magnetic Fields Revealed by Ground and Multi-satellite Observations |
+| 14:10 | Zhengyong Ren		| Tidal-induced magnetic signals extracted from MSS-1 |
+| 14:30 | Nicolas Gillet	| 4D-Earth core+ project: sounding the deep Earth |
+| 14:50 | Hongbo Yao		| Physics-based modeling of Earth's magnetic field using induction equation constraints and MSS-1/Swarm data |
+| 15:10 | Yufeng Lin		| Geomagnetic data assimilation based on ensemble Kalman smoother |
