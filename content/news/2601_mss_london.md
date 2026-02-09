@@ -20,12 +20,12 @@ draft: false
 | 10:30 | Anja Strømme   	| Swarm: current status and the way ahead |
 | 10:50 | Nils Olsen     	| Swarm, MSS, and Friends - Exploring Earth's Magnetic Field from Space |
 | 11:10 | Keke Zhang     	| The Macau Geomagnetic Constellation: An Update |
-| 11:30 | Gauthier Hulot 	| TBC |
+| 11:30 | Gauthier Hulot 	| Latest news on the upcoming NanoMagSat ESA Scout mission |
 | 11:50 | Hugo Shelley   	| Io-1: Demonstrating Accurate Magnetometry on a CubeSat Platform |
 | 12:10 | Ciaran Beggan 	| TBC |
 | 12:30 | 					| Lunch break |
 |		|				 	| |
-| 13:30 | Anita Aikio		| TBC |
+| 13:30 | Anita Aikio		| Open questions in the ionosphere-thermosphere research to be studied by LEO satellites and ground-based instruments |
 | 13:50 | Alexander Grayver | Dynamics of the Ionospheric, Magnetospheric, and Induced Magnetic Fields Revealed by Ground and Multi-satellite Observations |
 | 14:10 | Zhengyong Ren		| Tidal-induced magnetic signals extracted from MSS-1 |
 | 14:30 | Nicolas Gillet	| 4D-Earth core+ project: sounding the deep Earth |
