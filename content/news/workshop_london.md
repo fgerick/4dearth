@@ -29,15 +29,15 @@ draft: false
 |		|				|				|
 | 11:15 | Yan Feng | Lithospheric magnetic field modeling based on the satellite gradient data and regional aeromagentic data |
 | 11:35 | Catherine Constable | An updated statistical representation for paleomagnetic secular variation |
-| 11:55 | Richard Holme | Modelling the Jovian magnetic field from Juno data |
+| 11:55 | Frederik Dahl Madsen | Geomagnetic jerks as a result of core-surface flow acceleration: simulations and observations |
 | 12:15 | Kathy Whaler | Fast waves in the core from satellite SV data |
 | 12:35 | 				| Lunch break and [posters](#posters) |
 |		|				|				|
-| 14:00 | Frederik Dahl Madsen | Geomagnetic jerks as a result of core-surface flow acceleration: simulations and observations |
-| 14:20 | Yue-Kin Tsang | Transition in the geomagnetic secular variation timescale under the core-mantle boundary |
-| 14:40 | Jinfeng Li | Physics-informed neural networks for geomagnetic data assimilation |
-| 15:00 | Pengshuo Duan | Electrical conductivity at the mantle base inferred by a 6-year length-of-day oscillation |
-| 15:20 | Julien Aubert | Geodynamo simulations at the physical conditions of Earth’s core |
+| 14:00 | Yue-Kin Tsang | Transition in the geomagnetic secular variation timescale under the core-mantle boundary |
+| 14:20 | Jinfeng Li | Physics-informed neural networks for geomagnetic data assimilation |
+| 14:40 | Pengshuo Duan | Electrical conductivity at the mantle base inferred by a 6-year length-of-day oscillation |
+| 15:00 | Julien Aubert | Geodynamo simulations at the physical conditions of Earth’s core |
+| 15:20 | Luc Grasset | Longitudinally hemispheric structures in the geodynamo : from their physical origin to their geomagnetic consequences |
 | 15:40 | Dominique Jault | Core surface flows: lessons from no-slip dynamo simulations |
 | 16:00 | 				  | Coffee, discussions and [posters](#posters) |
 | 17:00 |				| Departure from the museum |
@@ -49,6 +49,6 @@ draft: false
 
 | Author		| Title |
 | ------------ | ----------- |
+| Richard Holme | Modelling the Jovian magnetic field from Juno data (TBC) |
 | Felix Gerick | Hydromagnetic modes and background flows |
-| Luc Grasset | Longitudinally hemispheric structures in the geodynamo : from their physical origin to their geomagnetic consequences |
 | Hannah Rogers | Insights into Earth’s magnetic field morphology and variability from paleomagnetic observations and geodynamo simulations |
