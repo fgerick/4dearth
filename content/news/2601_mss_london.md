@@ -26,7 +26,7 @@ draft: false
 | 12:30 | 					| Lunch break |
 |		|				 	| |
 | 13:30 | Anita Aikio		| Open questions in the ionosphere-thermosphere research to be studied by LEO satellites and ground-based instruments |
-| 13:50 | Alan Wood | Open questions in the ionosphere-thermosphere research: Insights from the Swarm-VIP-Dynamic project |
+| 13:50 | Alan Wood 		| Statistical Models of Ionospheric Variability and Irregularities in the Topside Ionosphere |
 | 14:10 | Alexander Grayver | Dynamics of the Ionospheric, Magnetospheric, and Induced Magnetic Fields Revealed by Ground and Multi-satellite Observations |
 | 14:30 | Zhengyong Ren		| Tidal-induced magnetic signals extracted from MSS-1 |
 | 14:50 | Hongbo Yao		| Physics-based modeling of Earth's magnetic field using induction equation constraints and MSS-1/Swarm data |
