@@ -21,7 +21,7 @@ draft: false
 | 10:50 | Nils Olsen     	| Swarm, MSS, and Friends - Exploring Earth's Magnetic Field from Space |
 | 11:10 | Gauthier Hulot 	| Latest news on the upcoming NanoMagSat ESA Scout mission |
 | 11:30 | Hugo Shelley   	| Io-1: Demonstrating Accurate Magnetometry on a CubeSat Platform |
-| 11:50 | Ciaran Beggan 	| TBC |
+| 11:50 | Ciaran Beggan 	| Development and Evaluation of the International Geomagnetic Reference Field (IGRF) 14th generation |
 | 12:10 | Nicolas Gillet	| 4D-Earth core+ project: sounding the deep Earth |
 | 12:30 | 					| Lunch break |
 |		|				 	| |
