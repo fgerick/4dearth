@@ -19,15 +19,15 @@ draft: false
 | ---- | --------------- 	| ----- |
 | 10:30 | Anja Strømme   	| Swarm: current status and the way ahead |
 | 10:50 | Nils Olsen     	| Swarm, MSS, and Friends - Exploring Earth's Magnetic Field from Space |
-| 11:10 | Keke Zhang     	| The Macau Geomagnetic Constellation: An Update |
-| 11:30 | Gauthier Hulot 	| Latest news on the upcoming NanoMagSat ESA Scout mission |
-| 11:50 | Hugo Shelley   	| Io-1: Demonstrating Accurate Magnetometry on a CubeSat Platform |
-| 12:10 | Ciaran Beggan 	| TBC |
+| 11:10 | Gauthier Hulot 	| Latest news on the upcoming NanoMagSat ESA Scout mission |
+| 11:30 | Hugo Shelley   	| Io-1: Demonstrating Accurate Magnetometry on a CubeSat Platform |
+| 11:50 | Ciaran Beggan 	| TBC |
+| 12:10 | Nicolas Gillet	| 4D-Earth core+ project: sounding the deep Earth |
 | 12:30 | 					| Lunch break |
 |		|				 	| |
 | 13:30 | Anita Aikio		| Open questions in the ionosphere-thermosphere research to be studied by LEO satellites and ground-based instruments |
-| 13:50 | Alexander Grayver | Dynamics of the Ionospheric, Magnetospheric, and Induced Magnetic Fields Revealed by Ground and Multi-satellite Observations |
-| 14:10 | Zhengyong Ren		| Tidal-induced magnetic signals extracted from MSS-1 |
-| 14:30 | Nicolas Gillet	| 4D-Earth core+ project: sounding the deep Earth |
+| 13:50 | Alan Wood | Open questions in the ionosphere-thermosphere research: Insights from the Swarm-VIP-Dynamic project |
+| 14:10 | Alexander Grayver | Dynamics of the Ionospheric, Magnetospheric, and Induced Magnetic Fields Revealed by Ground and Multi-satellite Observations |
+| 14:30 | Zhengyong Ren		| Tidal-induced magnetic signals extracted from MSS-1 |
 | 14:50 | Hongbo Yao		| Physics-based modeling of Earth's magnetic field using induction equation constraints and MSS-1/Swarm data |
 | 15:10 | Yufeng Lin		| Geomagnetic data assimilation based on ensemble Kalman smoother |
