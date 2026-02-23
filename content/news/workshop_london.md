@@ -19,7 +19,7 @@ draft: false
 
 | Time | Author          | Title |
 | ---- | ---------------- | ----- |
-| 08:45 |	        	| Arrival at National history museum |
+| 08:30 |	        	| Arrival at National history museum |
 | 09:00 |               | Welcome |
 | 09:10 | Chris Finlay | Model covariance and resolution estimates for core field models |
 | 09:30 | Clemens Kloss | Improving the non-polar ionospheric field of the CHAOS-8 geomagnetic field model |
@@ -33,6 +33,7 @@ draft: false
 | 12:15 | Kathy Whaler | Fast waves in the core from satellite SV data |
 | 12:35 | 				| Lunch break and [posters](#posters) |
 |		|				|				|
+| 13:45	|				| Return to seminar room	|
 | 14:00 | Yue-Kin Tsang | Transition in the geomagnetic secular variation timescale under the core-mantle boundary |
 | 14:20 | Jinfeng Li | Physics-informed neural networks for geomagnetic data assimilation |
 | 14:40 | Pengshuo Duan | Electrical conductivity at the mantle base inferred by a 6-year length-of-day oscillation |
