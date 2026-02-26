@@ -103,7 +103,6 @@ draft: false
 ### Attending remotely
 
 - Arnaud Chulliat
-- Daya Shanker
 - Celine Guervilly
 - Kumiko Hori
 - Debarshi Majumder
@@ -112,5 +111,6 @@ draft: false
 - Hazan Şahin
 - Swarandeep Sahoo
 - Stephanie Scheidt
+- Daya Shanker
 - Filipe Terra-Nova 
 - Aleyna Topal
