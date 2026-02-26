@@ -53,3 +53,64 @@ draft: false
 | Richard Holme | Modelling the Jovian magnetic field from Juno data (TBC) |
 | Felix Gerick | Hydromagnetic modes and background flows |
 | Hannah Rogers | Insights into Earth’s magnetic field morphology and variability from paleomagnetic observations and geodynamo simulations |
+
+
+## Participants
+
+- Julien Aubert
+- Ciaran Beggan
+- Peter Bickerton
+- William Brown
+- Cathy Constable
+- Frederik Dahl Madsen
+- Chris Davies
+- Pengshuo Duan 
+- Martin Fillion
+- Chris Finlay
+- Thomas Frasson
+- Felix Gerick
+- Nicolas Gillet
+- Luc Grasset
+- Alexander Grayver
+- David Gubbins
+- Richard Holme
+- Elisabetta Iorfida
+- Dominique Jault
+- Chris Jones
+- Clemens Kloss
+- Dali Kong
+- Jinfeng Li
+- Ligang Li
+- Yufeng Lin
+- Phil Livermore
+- Jon Mound
+- Souvik Naskar
+- Nils Olsen
+- Enkelejda Qamili
+- Zhengyong Ren
+- Hannah Rogers
+- Thomas Sandnes
+- Naomi Shakespeare-Rees
+- Ashley Smith
+- Yue-Kin Tsang
+- Callum Watson
+- Kathy Whaler
+- Feng Yan
+- Hongbo Yao
+- Jiaxuan Zhang
+- Keke Zhang
+
+### Attending remotely
+
+- Arnaud Chulliat
+- Daya Shanker
+- Celine Guervilly
+- Kumiko Hori
+- Debarshi Majumder
+- Marina Puente-Borque
+- Pablo Rivera Perez
+- Hazan Şahin
+- Swarandeep Sahoo
+- Stephanie Scheidt
+- Filipe Terra-Nova 
+- Aleyna Topal
