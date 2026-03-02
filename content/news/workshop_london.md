@@ -50,7 +50,6 @@ draft: false
 
 | Author		| Title |
 | ------------ | ----------- |
-| Richard Holme | Modelling the Jovian magnetic field from Juno data (TBC) |
 | Felix Gerick | Hydromagnetic modes and background flows |
 | Hannah Rogers | Insights into Earth’s magnetic field morphology and variability from paleomagnetic observations and geodynamo simulations |
 
