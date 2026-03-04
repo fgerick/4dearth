@@ -17,12 +17,14 @@ draft: false
 
 <div class="inline-block">
 <img class="dark:hidden inline-block"  src="../../img/institute-logos/logo-esa.png" width="30%"/>
-<img class="dark:hidden inline-block"  src="../../img/institute-logos/logo-bgs.png" width="18%"/>
 <img class="hidden dark:inline" src="../../img/institute-logos/logo-esa-white.png" width="30%"/>
-<img class="hidden dark:inline" src="../../img/institute-logos/logo-bgs-dark.png" width="18%"/>
-<img class="inline" src="../../img/institute-logos/logo-must2.png" width="20%"/>
-<img class="dark:hidden inline-block"  src="../../img/institute-logos/logo-eu.png" width="25%"/>
-<img class="hidden dark:inline" src="../../img/institute-logos/logo-eu-white.png" width="25%"/>
+<img class="dark:hidden inline-block"  src="../../img/institute-logos/logo-bgs.png" width="16%"/>
+<img class="hidden dark:inline" src="../../img/institute-logos/logo-bgs-dark.png" width="16%"/>
+<img class="dark:hidden inline-block"  src="../../img/institute-logos/logo-ras.svg" width="18%"/>
+<img class="hidden dark:inline"  src="../../img/institute-logos/logo-ras-dark.svg" width="18%"/>
+<img class="inline" src="../../img/institute-logos/logo-must2.png" width="18%"/>
+<img class="dark:hidden inline-block"  src="../../img/institute-logos/logo-eu.png" width="12%"/>
+<img class="hidden dark:inline" src="../../img/institute-logos/logo-eu-white.png" width="12%"/>
 
 </div>
 
