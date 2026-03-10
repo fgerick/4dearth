@@ -56,15 +56,15 @@ draft: false
 | 16:00 | 				  | Coffee, discussions and [posters](#posters) |
 | 17:00 |				| Departure from the museum |
 |		|				|				|
-| TBD 	| 				| Social activity & dinner |
+| 18:30 | 				| Dinner ([Dishoom Battersea](https://maps.app.goo.gl/4BdCKCFo56rjSSyH6)) |
 
 
 ## Posters
 
-| Author		| Title |
-| ------------ | ----------- |
-| Felix Gerick | Hydromagnetic modes and background flows |
-| Hannah Rogers | Insights into Earth’s magnetic field morphology and variability from paleomagnetic observations and geodynamo simulations |
+| Author	     | Title |
+| -------------- | ----------- |
+| Felix Gerick   | Hydromagnetic modes and background flows |
+| Thomas Frasson | Predictions from Geodynamo Simulations of Paleomagnetic Field Behaviour at Inner Core Nucleation |
 
 
 ## Participants
@@ -85,12 +85,14 @@ draft: false
 - Luc Grasset
 - Alexander Grayver
 - David Gubbins
+- Guang He
 - Richard Holme
 - Elisabetta Iorfida
 - Dominique Jault
 - Chris Jones
 - Clemens Kloss
 - Dali Kong
+- Dior Kwok Cheng Man
 - Jinfeng Li
 - Ligang Li
 - Yufeng Lin
@@ -115,6 +117,7 @@ draft: false
 ### Attending remotely
 
 - Arnaud Chulliat
+- Roberta Forte
 - Celine Guervilly
 - Kumiko Hori
 - Debarshi Majumder
@@ -125,4 +128,5 @@ draft: false
 - Stephanie Scheidt
 - Daya Shanker
 - Filipe Terra-Nova 
+- Lars Tøffner-Clausen
 - Aleyna Topal
