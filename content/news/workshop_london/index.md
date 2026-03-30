@@ -69,7 +69,8 @@ draft: false
 
 ## Participants
 
-![Group photo](workshop_london_group.jpeg)
+![Group photo](workshop_london_group.jpeg "Group photo inside the National History Museum (D. Kwok Cheng Man/MUST)")
+
 
 - Julien Aubert
 - Ciaran Beggan

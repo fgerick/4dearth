@@ -47,4 +47,4 @@ draft: false
 | 15:10 | Yufeng Lin		| Geomagnetic data assimilation based on ensemble Kalman smoother |
 
 
-![Audience photo](ras_meeting_audience.jpeg)
+![Audience photo](ras_meeting_audience.jpeg  "Audience at the Royal Astronomical Society (D. Kwok Cheng Man/MUST)")
