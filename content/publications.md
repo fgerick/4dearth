@@ -4,11 +4,22 @@ layout: "simple"
 date: 2025-09-29
 ---
 
+## 2026
+
+- Jault, Personnettaz, Gillet, Lepage & Schaeffer. Viscous and Magnetic Boundary Layers at the
+Top of the Core in Geodynamo Models, _Journal of Geophysical Research: Solid Earth_, 131(7), e2025JB033648, [10.1029/2025JB033648](https://doi.org/10.1029/2025JB033648) {{< openaccess >}}
+- Claveau, Gillet, Schaeffer, & Aubert. Planetary Dynamo Simulation Explorer: a filterable and visualisable web-based, community-driven catalogue. _Journal of Studies of Earth's Deep Interior_, 2, paper 5, [10.46298/jsedi.17348](https://doi.org/10.46298/jsedi.17348) {{< openaccess >}}
+- Aubert. Geodynamo simulations spanning millennia in the physical conditions of Earth's core. _Journal of Studies of Earth's Deep Interior_, 2, paper 3, [10.46298/jsedi.17790](https://doi.org/10.46298/jsedi.17790) {{< openaccess >}}
+
+## 2025
+
+- Gillet, Martinec, Lepage, & Jault. Constraints on the lower mantle electrical conductivity from length-of-day changes. _Journal of Studies of Earth’s Deep Interior_, 1, paper 4, [10.46298/jsedi.16005](https://doi.org/10.46298/jsedi.16005) {{< openaccess >}}
+
 
 # Previous references
 
 ## 2025
-- Gillet, Martinec, Lepage, & Jault. Constraints on the lower mantle electrical conductivity from length-of-day changes. _Journal of Studies of Earth’s Deep Interior_, 1, 4, [10.46298/jsedi.16005](https://doi.org/10.46298/jsedi.16005) {{< openaccess >}}
+- Gillet, Martinec, Lepage, & Jault. Constraints on the lower mantle electrical conductivity from length-of-day changes. _Journal of Studies of Earth's Deep Interior_, 1, 4, [10.46298/jsedi.16005](https://doi.org/10.46298/jsedi.16005) {{< openaccess >}}
 - Finlay, Kloss, & Gillet. Core field changes from eleven years of Swarm satellite observations. _Physics of the Earth and Planetary Interiors_, 368, 107447. [10.1016/j.pepi.2025.107447](https://doi.org/10.1016/j.pepi.2025.107447) {{< openaccess >}}
 - Gerick & Mandea. Surface Core Flow Dynamic Pressure Estimation. _Geophysical Journal International_, 243(1), ggaf321. [10.1093/gji/ggaf321](https://doi.org/10.1093/gji/ggaf321) {{< openaccess >}}
 - Claveau, Gillet, Amblard, & Finlay. Broadband a priori temporal cross-covariances for the geomagnetic inverse problem: application to the satellite era, _Earth, Planets and Space_, 77(1), 126, [10.1186/s40623-025-02248-z](https://doi.org/10.1186/s40623-025-02248-z). {{< openaccess >}}
