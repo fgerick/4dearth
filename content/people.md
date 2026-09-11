@@ -107,3 +107,11 @@ In this project, we will study several key aspects of Earth's core flow related 
 [website](https://nschaeff.bitbucket.io)
 {{< /person >}}
 
+{{< person
+    name="Dr Jakub Velímský"
+    affiliation="Charles University"
+    img="img/people/velimsky.jpg"
+>}}
+I am an Associate Professor of Geophysics at the Faculty of Mathematics and Physics, Charles University in Prague. I am interested in numerical modelling of electromagnetic induction in the solid Earth, its oceans, and beyond. I am joining the 4D Earth Core+ team to study an interesting component of the geomagnetic field, which is induced by the global ocean circulation. Can the Swarm observations of this tiny signal help to better understand the ocean dynamics?
+{{< /person >}}
+
