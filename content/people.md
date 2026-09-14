@@ -9,7 +9,7 @@ date: 2025-09-26
 
 {{< person
     name="Dr Julien Aubert"
-    affiliation="Institut de Physique du Globe de Paris"
+    affiliation="Institut de Physique du Globe de Paris, CNRS"
     img="img/people/aubert.jpg"
 >}}
 I am a CNRS research director working on the geophysical interpretation of the geomagnetic signal. Within this project, I am the corresponding scientist for partner IPGP. 
