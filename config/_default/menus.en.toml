@@ -43,6 +43,11 @@
 
 
 [[main]]
+  name = "Benchmark"
+  pageRef = "benchmark"
+  weight = 60
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
