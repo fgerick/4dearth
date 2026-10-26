@@ -4,6 +4,8 @@ title: "Welcome to the 4D Earth: Core+ project website."
 
 This project, [funded by ESA under the Earth Observation Science for Society programme](https://eo4society.esa.int/projects/4d-core/), aims to advance the understanding of Earth’s deep interior by combining satellite geomagnetic observations with numerical simulations and novel data analysis techniques. Building mainly on data of ESA’s [Swarm mission](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm), the project explores the dynamics of the Earth’s core, its interaction with the mantle, and the processes driving rapid magnetic variations. In addition, the project intends to disentangle the weak magnetic signals induced by the oceans from other magnetic sources. We aim to deliver new insights, benchmark methodologies, and pave the way for future geomagnetic exploration. The project gathers researchers from [ISTerre](https://www.isterre.fr/), [DTU](https://www.dtu.dk/english/), [IPGP](https://www.ipgp.fr/), [University of Leeds](https://www.leeds.ac.uk/) and [Charles University](https://cuni.cz/UKEN-1.html). A list of the researchers involved is available under [People](/people/).
 
+As part of the project, we have launched a [Core flow inversion benchmark](/benchmark/) open for external submissions!
+
 You can find the latest updates on the project under [News](/news/), and we give a list of [Publications](/publications/), the relevant [Codes](/codes/) developed by members of the project and relevant [Data](/data/) products.
 
 <div class="inline-block">
